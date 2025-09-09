@@ -6,15 +6,15 @@ Business Problem
 
 A bank needs to understand the nature of consumer complaints to improve its operations and enhance customer satisfaction. The analysis seeks to answer key questions, including:
 
-What are the top products and issues that generate the most complaints?
+1- What are the top products and issues that generate the most complaints?
 
-What are the trends in complaint volume over time?
+2- What are the trends in complaint volume over time?
 
-Are there any seasonal patterns in complaints?
+3- Are there any seasonal patterns in complaints?
 
-Which states have the highest volume of complaints?
+4- Which states have the highest volume of complaints?
 
-What can be learned from the complaints that receive untimely responses?
+5- What can be learned from the complaints that receive untimely responses?
 
 Results & Business Recommendations
 
