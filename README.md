@@ -1,6 +1,7 @@
 Executive Summary
 
 This project uses SQL to analyze financial consumer complaints submitted to the Consumer Financial Protection Bureau (CFPB) for Bank of America. The objective is to clean the raw data, identify key trends related to products and issues, and provide actionable insights that can help the business improve its customer service and reduce complaint volumes.
+________________________________________
 
 Business Problem
 
@@ -15,6 +16,7 @@ A bank needs to understand the nature of consumer complaints to improve its oper
 4- Which states have the highest volume of complaints?
 
 5- What can be learned from the complaints that receive untimely responses?
+________________________________________
 
 Results & Business Recommendations
 
@@ -31,10 +33,12 @@ Recommendation: Conduct a deeper investigation into the 'Managing an account' is
 Untimely Responses: The analysis of untimely responses revealed that they are most common for Checking or savings account products.
 
 Recommendation: Investigate the operational reasons behind untimely responses, especially for the products that receive the most complaints. Improving response time could enhance customer satisfaction and prevent escalations.
+________________________________________
 
 Project Structure
 
 Financial_consumer_complaints SQL.sql: The SQL script containing all the queries for data cleaning, analysis, and reporting.
+________________________________________
 
 How to Run the Project
 Connect to your SQL database.
