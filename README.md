@@ -26,13 +26,23 @@ The analysis was performed using SQL, with a focus on data cleaning, aggregation
 
 Recommendation: Proactively allocate customer service resources during peak complaint seasons to manage the higher volume of inquiries and reduce response times.
 
+<img width="638" height="353" alt="2" src="https://github.com/user-attachments/assets/a0171c88-313a-48ef-b18a-025b9a5f00ca" />
+
+
 2- Top Products and Issues: The most complained-about products are Checking or savings account and Credit card or prepaid card. A common issue across products is Managing an account, which frequently appears in untimely responses.
 
 Recommendation: Conduct a deeper investigation into the 'Managing an account' issue to identify specific pain points. Improving the customer experience in this area could significantly reduce overall complaints.
 
+<img width="914" height="335" alt="1" src="https://github.com/user-attachments/assets/d9c58c13-3e67-4db7-888c-db6ea091aab5" />
+
+
 3- Untimely Responses: The analysis of untimely responses revealed that they are most common for Checking or savings account products.
 
 Recommendation: Investigate the operational reasons behind untimely responses, especially for the products that receive the most complaints. Improving response time could enhance customer satisfaction and prevent escalations.
+
+<img width="893" height="334" alt="3" src="https://github.com/user-attachments/assets/595efb22-cb24-44bc-a11b-974ff6d6918b" />
+
+
 ________________________________________
 
 Project Structure
